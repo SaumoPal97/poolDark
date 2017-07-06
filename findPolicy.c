@@ -13,6 +13,7 @@
 #define min(X, Y)  ((X) < (Y) ? (X) : (Y))
 #define max(X, Y)  ((X) > (Y) ? (X) : (Y))
 
+
 /* Description of the state and dynamics of the system
    
    State is three dimensional, price in the exchange, price in the dark pool
